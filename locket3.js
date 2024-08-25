@@ -1,4 +1,4 @@
-#!url=https://raw.githubusercontent.com/vuong2023/shad/main/modules/Locket_ohb.sgmodule
+#!url=https://raw.githubusercontent.com/emhoa68/emhoa68/master/locket3.js
 #!name=emhoa68
 #!desc=Crack By emhoa68
 
